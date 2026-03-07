@@ -6,3 +6,4 @@ git status:- this command will print the status of current folder
 
 git add:- this command will add files to the version you like 
 
+git commit:- this will create a version for you current files
